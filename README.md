@@ -10,6 +10,17 @@ In general, the Aquarius hardware is fairly hardy. Few of the parts go bad, and 
 
 ## Purpose
 The purpose of this project is to document and recreate the original Aquarius computer motherboard. This baseline can be used by other enthusiasts (though we are few and far between) as a starting point for creating new modifications to the system, such as adding a composite video adapter (which I've done) to replace the stock RF modulator, or adding more modern components to "future proof" the system.
+Additionally, there was a need to update and correct the "MEKO" schematic from 1986. It was drawn from the PAL board, and values for various components seemed to differ from what was commonly manufactured.
+
+## Caveats
+* Some fixes were made:
+  * The .1uF capacitor that was bodged under U6 has been given a proper set of pads beside U6.
+  * Silkscreens were added, with all components being identified. Unfortunately, due to the poor quality of original Radofin documents on the Internet, I had to take a stance and perform a re-number of components, particularly resistors and capacitors. In some cases, these won't match original numbers, but every effort was made to get them as close as possible.
+  * Both the PAL-only and NTSC-only components are marked, but only the components for the version being built should be used.
+* The libraries within the Eagle folder are a mess. I apologize. The file "Aq 1-1-0b MB Libraries.png" in the docs folder shows a snapshot of what was in use at the point of publication of this project. It's a combination of the standard Eagle libraries, some copied/modified versions of those, and some of my own items. I'll eventually try to consolidate them into a single library file. Again, apologies.
+* As of 10 AUG 2020, the Gerber files have NOT been used to create a PCB. That should be rectified by 01 SEP 2020, followed by at least TWO transplant/repopulation of stock components to fully confirm these PCB designs work.
+* This design was taken from the NTSC version of the Aquarius Motherboard, Radofin part number 5931-4229 A. The values for all components are derived from the NTSC version, and where practical, PAL component values are noted on the schematic. As such, the "part number" embossed on these designs uses 5931-4229 AC to differentiate.
+* The schematic does it's best to identify differences between the NTSC and PAL versions, usually with dashed lines surrounding the differences.
 
 ## Aquarius Hardware Development Roadmap
 (A more up-to-date version of this list is at https://aquarius.1stage.com/hw-roadmap)
