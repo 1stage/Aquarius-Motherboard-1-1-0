@@ -25,7 +25,7 @@ Additionally, there was a need to update and correct the "MEKO" schematic from 1
 ## Aquarius Hardware Development Roadmap
 (A more up-to-date version of this list is at https://aquarius.1stage.com/hw-roadmap)
 
-Aquarius v1.0.0 : Baseline
+### Aquarius v1.0.0 : Baseline
 * Aquarius v1.1.0 (Rev B): Aquarius 1 stock motherboard, like-for-like replacement, SANCTIONED FREE version. 
   * Aquarius v1.1.0.x : Users can fork at this level for their own purposes, UNSANCTIONED versions.
 * Aquarius v1.2.0 : Aquarius 1 modernized motherboard, fits in Aquarius 1 case, unmodified port openings may be used differently, SANCTIONED PAID version.
@@ -35,7 +35,7 @@ Aquarius v1.0.0 : Baseline
 * Aquarius v1.3.0 : Aquarius 1 motherboard, new layout, new case format, etc. ???
   * Aquarius v1.3.1 : New case design with mechanical keyboard, RGB output, proper serial, etc. ???
 
-Aquarius v2.0.0 : Baseline
+### Aquarius v2.0.0 : Baseline (FUTURE)
 * Aquarius v2.1.0 : Aquarius 2 stock motherboard, like-for-like replacement, SANCTIONED FREE version.
   * Aquarius v2.1.0.x : Users can fork at this level for their own purposes, UNSANCTIONED versions.
   * Aquarius v2.1.1 : Aquarius 2 motherboard, updated with proper silk screen markings and ground planes, SANCTIONED PAID version.
@@ -44,5 +44,6 @@ Aquarius v2.0.0 : Baseline
   * Aquarius v2.2.1 : Charmap, ROM, etc updates ???
 * Aquarius v2.3.0 : Aquarius 2 motherboard, new layout, new case format, etc. ???
 
-Aquarius v3.0.0 : Baseline, new OPEN computer, modern, programmable system (new video system, RAM system, sound, etc.)
+### Aquarius v3.0.0 : Baseline (FUTURE)
+New OPEN computer, modern, programmable system (new video system, RAM system, sound, etc.)
 * Aquarius v3.1.0 : Aquarius 3 motherboard, SANCTIONED FREE version
