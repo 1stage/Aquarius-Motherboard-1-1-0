@@ -1,7 +1,8 @@
 # Aquarius Motherboard 1-1-0
 Aquarius Motherboard 1-1-0 - Rev B
  
-by Sean P. Harrington, sph@1stage.com
+by Sean P. Harrington
+sph@1stage.com
 aquarius.1stage.com
  
 ## Background
