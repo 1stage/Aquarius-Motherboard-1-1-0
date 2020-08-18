@@ -35876,7 +35876,7 @@ Distributor: &lt;a href ="https://www.buerklin.com/default.asp?event=ShowArtikel
 <part name="R30" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="10k"/>
 <part name="R31" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="3.9k"/>
 <part name="R29" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="100"/>
-<part name="C42" library="aq-rcl" deviceset="C-US" device="050-025X090" value=".02u"/>
+<part name="C42" library="aq-rcl" deviceset="C-US" device="050-025X090" value=".02uF"/>
 <part name="D11" library="aq-diode" deviceset="1N4148" device=""/>
 <part name="D2" library="aq-diode" deviceset="1N4148" device="-12" value="1N4148H"/>
 <part name="D3" library="aq-diode" deviceset="1N4148" device="-12" value="1N4148H"/>
@@ -35959,8 +35959,8 @@ Distributor: &lt;a href ="https://www.buerklin.com/default.asp?event=ShowArtikel
 <part name="L7" library="aq-rcl" deviceset="L-US" device="TFI0305" package3d_urn="urn:adsk.eagle:package:23529/1"/>
 <part name="L8" library="aq-rcl" deviceset="L-US" device="TFI0305" package3d_urn="urn:adsk.eagle:package:23529/1"/>
 <part name="L6" library="aq-rcl" deviceset="L-US" device="TFI0305" package3d_urn="urn:adsk.eagle:package:23529/1"/>
-<part name="C40" library="aq-rcl" deviceset="C-US" device="050-025X090" value=".02u"/>
-<part name="C41" library="aq-rcl" deviceset="C-US" device="050-025X090" value=".02u"/>
+<part name="C40" library="aq-rcl" deviceset="C-US" device="050-025X090" value=".02uF"/>
+<part name="C41" library="aq-rcl" deviceset="C-US" device="050-025X090" value=".02uF"/>
 <part name="J3" library="26-60-4040" deviceset="26-60-4040" device=""/>
 <part name="C4" library="aq-rcl" deviceset="C-US" device="050-025X090" value=".1uF"/>
 <part name="MOD1" library="aquarius2" deviceset="PINHD-1X1" device="" package3d_urn="urn:adsk.eagle:package:22485/2"/>
