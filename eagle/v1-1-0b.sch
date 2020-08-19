@@ -35981,7 +35981,7 @@ Distributor: &lt;a href ="https://www.buerklin.com/default.asp?event=ShowArtikel
 <part name="C33" library="aq-rcl" deviceset="C-US" device="050-024X044" package3d_urn="urn:adsk.eagle:package:23643/1" value="680pF"/>
 <part name="C31" library="aq-rcl" deviceset="C-US" device="050-024X044" package3d_urn="urn:adsk.eagle:package:23643/1" value=".1uF"/>
 <part name="C29" library="aq-rcl" deviceset="C-US" device="050-024X044" package3d_urn="urn:adsk.eagle:package:23643/1" value="150pF"/>
-<part name="XTAL1" library="special" library_urn="urn:adsk.eagle:library:367" deviceset="XTAL" device="" package3d_urn="urn:adsk.eagle:package:26649/1"/>
+<part name="XTAL1" library="special" library_urn="urn:adsk.eagle:library:367" deviceset="XTAL" device="" package3d_urn="urn:adsk.eagle:package:26649/1" value="7.15909 MhZ"/>
 <part name="CT1" library="aq-rcl" deviceset="C-TRIMM" device="808" package3d_urn="urn:adsk.eagle:package:23766/1"/>
 <part name="SW1" library="aquarius" deviceset="3PDT-AQ-SWITCH" device=""/>
 <part name="GND1" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
@@ -36056,7 +36056,7 @@ Distributor: &lt;a href ="https://www.buerklin.com/default.asp?event=ShowArtikel
 <part name="C23" library="aq-rcl" deviceset="C-US" device="050-024X044" package3d_urn="urn:adsk.eagle:package:23643/1" value="10pF"/>
 <part name="R50" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="56k"/>
 <part name="R51" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="56k"/>
-<part name="XTAL2" library="special" library_urn="urn:adsk.eagle:library:367" deviceset="XTAL" device="" package3d_urn="urn:adsk.eagle:package:26649/1"/>
+<part name="XTAL2" library="special" library_urn="urn:adsk.eagle:library:367" deviceset="XTAL" device="" package3d_urn="urn:adsk.eagle:package:26649/1" value="7.15909 Mhz"/>
 <part name="R52" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="56k"/>
 <part name="U13" library="74xx-us" library_urn="urn:adsk.eagle:library:88" deviceset="74*04" device="N" package3d_urn="urn:adsk.eagle:package:16407/2" technology="LS"/>
 <part name="C43" library="aq-rcl" deviceset="C-US" device="050-025X090" value=".1uF"/>
@@ -36312,7 +36312,7 @@ U11</text>
 <wire x1="347.98" y1="15.24" x2="261.62" y2="15.24" width="0.1524" layer="97"/>
 <wire x1="261.62" y1="15.24" x2="261.62" y2="5.08" width="0.1524" layer="97"/>
 <wire x1="261.62" y1="5.08" x2="347.98" y2="5.08" width="0.1524" layer="97"/>
-<text x="304.8" y="7.62" size="5.08" layer="97" align="bottom-center">18 AUG 2020</text>
+<text x="304.8" y="7.62" size="5.08" layer="97" align="bottom-center">19 AUG 2020</text>
 <wire x1="347.98" y1="15.24" x2="347.98" y2="25.4" width="0.1524" layer="97"/>
 <wire x1="347.98" y1="25.4" x2="261.62" y2="25.4" width="0.1524" layer="97"/>
 <wire x1="261.62" y1="25.4" x2="261.62" y2="15.24" width="0.1524" layer="97"/>
@@ -36418,6 +36418,8 @@ Connect to U16-11</text>
 <wire x1="469.392" y1="101.854" x2="469.9" y2="101.854" width="0.1524" layer="97" style="shortdash"/>
 <wire x1="469.9" y1="101.854" x2="469.9" y2="99.06" width="0.1524" layer="97" style="shortdash"/>
 <wire x1="562.864" y1="170.434" x2="584.2" y2="170.18" width="0.1524" layer="97" style="shortdash"/>
+<text x="593.09" y="292.354" size="1.016" layer="96">PAL 8.867238 Mhz</text>
+<text x="593.09" y="294.894" size="1.016" layer="96">NTSC</text>
 </plain>
 <instances>
 <instance part="U1" gate="1" x="403.86" y="269.24" smashed="yes">
@@ -37047,7 +37049,7 @@ Connect to U16-11</text>
 </instance>
 <instance part="XTAL1" gate="G$1" x="589.28" y="294.64" smashed="yes" rot="R90">
 <attribute name="NAME" x="591.82" y="298.45" size="1.778" layer="95"/>
-<attribute name="VALUE" x="594.36" y="289.56" size="1.778" layer="96" rot="R90"/>
+<attribute name="VALUE" x="597.408" y="294.894" size="1.016" layer="96"/>
 </instance>
 <instance part="CT1" gate="G$1" x="589.28" y="281.94" smashed="yes">
 <attribute name="NAME" x="590.804" y="282.321" size="1.778" layer="95"/>
@@ -37277,7 +37279,8 @@ Connect to U16-11</text>
 <attribute name="VALUE" x="610.87" y="39.878" size="1.778" layer="96"/>
 </instance>
 <instance part="XTAL2" gate="G$1" x="614.68" y="68.58" smashed="yes" rot="R180">
-<attribute name="VALUE" x="619.76" y="73.66" size="1.778" layer="96" rot="R180"/>
+<attribute name="NAME" x="609.6" y="72.39" size="1.778" layer="95"/>
+<attribute name="VALUE" x="607.06" y="63.5" size="1.778" layer="96"/>
 </instance>
 <instance part="R52" gate="G$1" x="657.86" y="55.88" smashed="yes" rot="R180">
 <attribute name="NAME" x="661.67" y="54.3814" size="1.778" layer="95" rot="R180"/>
