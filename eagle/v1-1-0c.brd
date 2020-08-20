@@ -6167,7 +6167,7 @@ design rules under a new name.</description>
 <attribute name="NAME" x="227.1268" y="94.3356" size="1.27" layer="21" align="bottom-center"/>
 <attribute name="VALUE" x="223.3676" y="96.0882" size="1.27" layer="21" align="top-center"/>
 </element>
-<element name="C38" library="aq-rcl" package="C050-025X085" value=".1uF" x="45.9486" y="15.9004" smashed="yes" rot="R90">
+<element name="C38" library="aq-rcl" package="C050-025X085" value="100pF" x="45.9486" y="15.9004" smashed="yes" rot="R90">
 <attribute name="NAME" x="45.9994" y="20.4216" size="0.6096" layer="25" ratio="10" align="bottom-center"/>
 <attribute name="VALUE" x="45.9994" y="10.7696" size="0.6096" layer="27" ratio="10" align="top-center"/>
 </element>
