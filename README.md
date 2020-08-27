@@ -1,5 +1,5 @@
 # Aquarius Motherboard 1-1-0
-Aquarius Motherboard 1-1-0 - Rev B
+Aquarius Motherboard 1-1-0 - Rev C
 
 by Sean P. Harrington, sph@1stage.com, http://aquarius.1stage.com
  
