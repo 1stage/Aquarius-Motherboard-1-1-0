@@ -1,9 +1,9 @@
 # Aquarius Motherboard 1-1-0
 Aquarius Motherboard 1-1-0 - Rev B
  
-### by Sean P. Harrington
-### sph@1stage.com
-### http://aquarius.1stage.com
+#### by Sean P. Harrington
+#### sph@1stage.com
+#### http://aquarius.1stage.com
  
 ## Background
 In general, the Aquarius hardware is fairly hardy. Few of the parts go bad, and the system just works, even when stored in harsh or unforgiving environments. Add to that the poor reception the computer had during its brief, 3-4 month sales window in 1983, and there is no REAL reason most people would be interested. But the Mattel Aquarius Computer was the first computer I ever owned. I learned first hand how to program in BASIC, and then how to hack together an audio cable to save those programs to my inexpensive Radio Shack cassette player. However I quickly grew out of it's limited functionality and moved on to a Commodore 64, and then an Apple Macintosh SE, and then Mac II, and then various Windows PCs. It wasn't until Summer of 2019 that I started getting back into retro computers, and it was the pang of guilt I felt in abandoning my first Aquarius that brought me back in.
