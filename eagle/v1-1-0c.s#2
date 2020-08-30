@@ -36048,7 +36048,7 @@ Distributor: &lt;a href ="https://www.buerklin.com/default.asp?event=ShowArtikel
 <part name="P+23" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
 <part name="SUPPLY5" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="VPP" device=""/>
 <part name="GND35" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="C38" library="aq-rcl" deviceset="C-US" device="050-025X085" value="100pF"/>
+<part name="C38" library="aq-rcl" deviceset="C-US" device="050-025X085" value=".1uF"/>
 <part name="GND37" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="P+11" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
 <part name="GND13" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
@@ -36388,9 +36388,14 @@ TEA1002 PALSW</text>
 <wire x1="545.592" y1="92.964" x2="545.592" y2="98.806" width="0.254" layer="97"/>
 <text x="466.09" y="99.314" size="1.016" layer="97" align="center-right">PAL ONLY
 Connect to U16-11</text>
-<wire x1="514.858" y1="158.75" x2="514.858" y2="200.66" width="0.1524" layer="97" style="shortdash"/>
-<wire x1="514.858" y1="200.66" x2="596.138" y2="200.66" width="0.1524" layer="97" style="shortdash"/>
-<wire x1="596.138" y1="200.66" x2="596.138" y2="170.434" width="0.1524" layer="97" style="shortdash"/>
+<wire x1="540.004" y1="165.1" x2="540.004" y2="181.864" width="0.1524" layer="97" style="shortdash"/>
+<wire x1="540.004" y1="181.864" x2="540.004" y2="185.166" width="0.1524" layer="97" style="shortdash"/>
+<wire x1="540.004" y1="185.166" x2="544.576" y2="185.166" width="0.1524" layer="97" style="shortdash"/>
+<wire x1="544.576" y1="185.166" x2="544.576" y2="199.136" width="0.1524" layer="97" style="shortdash"/>
+<wire x1="544.576" y1="199.136" x2="583.184" y2="199.136" width="0.1524" layer="97" style="shortdash"/>
+<wire x1="583.184" y1="199.136" x2="584.454" y2="199.136" width="0.1524" layer="97" style="shortdash"/>
+<wire x1="584.454" y1="199.136" x2="584.454" y2="171.45" width="0.1524" layer="97" style="shortdash"/>
+<wire x1="584.454" y1="171.45" x2="584.454" y2="170.18" width="0.1524" layer="97" style="shortdash"/>
 <text x="549.656" y="162.56" size="1.778" layer="97" align="center">NTSC ONLY</text>
 <wire x1="469.9" y1="99.06" x2="469.9" y2="97.536" width="0.1524" layer="97" style="shortdash"/>
 <wire x1="469.9" y1="97.536" x2="501.904" y2="97.536" width="0.1524" layer="97" style="shortdash"/>
@@ -36402,8 +36407,9 @@ Connect to U16-11</text>
 <wire x1="562.61" y1="40.64" x2="562.61" y2="60.96" width="0.1524" layer="97" style="shortdash"/>
 <wire x1="562.61" y1="60.96" x2="562.61" y2="62.484" width="0.1524" layer="97" style="shortdash"/>
 <wire x1="562.61" y1="62.484" x2="562.864" y2="170.434" width="0.1524" layer="97" style="shortdash"/>
-<wire x1="514.858" y1="158.75" x2="505.714" y2="158.75" width="0.1524" layer="97" style="shortdash"/>
-<wire x1="505.714" y1="158.75" x2="505.714" y2="129.286" width="0.1524" layer="97" style="shortdash"/>
+<wire x1="540.004" y1="165.1" x2="540.004" y2="157.734" width="0.1524" layer="97" style="shortdash"/>
+<wire x1="540.004" y1="157.734" x2="505.714" y2="157.48" width="0.1524" layer="97" style="shortdash"/>
+<wire x1="505.714" y1="157.48" x2="505.714" y2="129.286" width="0.1524" layer="97" style="shortdash"/>
 <wire x1="505.714" y1="129.286" x2="471.932" y2="129.032" width="0.1524" layer="97" style="shortdash"/>
 <wire x1="471.932" y1="129.032" x2="472.186" y2="116.586" width="0.1524" layer="97" style="shortdash"/>
 <wire x1="472.186" y1="116.586" x2="468.63" y2="116.586" width="0.1524" layer="97" style="shortdash"/>
@@ -36411,7 +36417,7 @@ Connect to U16-11</text>
 <wire x1="468.376" y1="101.854" x2="469.392" y2="101.854" width="0.1524" layer="97" style="shortdash"/>
 <wire x1="469.392" y1="101.854" x2="469.9" y2="101.854" width="0.1524" layer="97" style="shortdash"/>
 <wire x1="469.9" y1="101.854" x2="469.9" y2="99.06" width="0.1524" layer="97" style="shortdash"/>
-<wire x1="562.864" y1="170.434" x2="596.138" y2="170.434" width="0.1524" layer="97" style="shortdash"/>
+<wire x1="562.864" y1="170.434" x2="584.2" y2="170.18" width="0.1524" layer="97" style="shortdash"/>
 <text x="593.09" y="292.354" size="1.016" layer="96">PAL 8.867238 Mhz</text>
 <text x="593.09" y="294.894" size="1.016" layer="96">NTSC</text>
 </plain>
