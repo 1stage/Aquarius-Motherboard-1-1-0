@@ -35840,7 +35840,7 @@ Distributor: &lt;a href ="https://www.buerklin.com/default.asp?event=ShowArtikel
 <part name="R9" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="820"/>
 <part name="R14" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="2.2k"/>
 <part name="R15" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="1.2k"/>
-<part name="R55" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="47k"/>
+<part name="R55" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="47k/∞"/>
 <part name="R5" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="10k"/>
 <part name="R37" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="560"/>
 <part name="R46" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="510"/>
@@ -35851,7 +35851,7 @@ Distributor: &lt;a href ="https://www.buerklin.com/default.asp?event=ShowArtikel
 <part name="R45" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="47k"/>
 <part name="R24" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="10k"/>
 <part name="R23" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="100"/>
-<part name="R25" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="4.7k"/>
+<part name="R25" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="4.7k/2.7k"/>
 <part name="R32" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="820"/>
 <part name="R43" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="4.7k"/>
 <part name="R42" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="510"/>
@@ -35864,11 +35864,11 @@ Distributor: &lt;a href ="https://www.buerklin.com/default.asp?event=ShowArtikel
 <part name="R47" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="4.7k"/>
 <part name="R54" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="1.8k"/>
 <part name="R53" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="1k"/>
-<part name="R58" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="10k"/>
-<part name="R57" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="1k"/>
-<part name="R56" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="100k"/>
-<part name="R59" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="180"/>
-<part name="R60" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="470"/>
+<part name="R58" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="10k/∞"/>
+<part name="R57" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="1k/∞"/>
+<part name="R56" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="100k/∞"/>
+<part name="R59" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="180/∞"/>
+<part name="R60" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="470/∞"/>
 <part name="R27" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="10k"/>
 <part name="R28" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="2.2k"/>
 <part name="R36" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="1.8k"/>
@@ -35922,8 +35922,8 @@ Distributor: &lt;a href ="https://www.buerklin.com/default.asp?event=ShowArtikel
 <part name="C21" library="aq-rcl" deviceset="C-US" device="050-025X090" value=".1uF"/>
 <part name="C2" library="aq-rcl" deviceset="C-US" device="050-024X044" package3d_urn="urn:adsk.eagle:package:23643/1" value="10pF"/>
 <part name="C25" library="aq-rcl" deviceset="C-US" device="050-025X090" value=".1uF"/>
-<part name="R49" library="aq-rcl" deviceset="R-US_" device="0207/7" package3d_urn="urn:adsk.eagle:package:23493/2" value="220"/>
-<part name="C37" library="aq-rcl" deviceset="C-US" device="025-030X050" package3d_urn="urn:adsk.eagle:package:23631/1" value=".001uF"/>
+<part name="R49" library="aq-rcl" deviceset="R-US_" device="0207/7" package3d_urn="urn:adsk.eagle:package:23493/2" value="0/220"/>
+<part name="C37" library="aq-rcl" deviceset="C-US" device="025-030X050" package3d_urn="urn:adsk.eagle:package:23631/1" value=".001uF/∞"/>
 <part name="C1" library="aq-rcl" deviceset="CPOL-US" device="E2.5-6" package3d_urn="urn:adsk.eagle:package:23349/1" value="1uF @ 50v"/>
 <part name="C22" library="aq-rcl" deviceset="C-US" device="050-025X085" value=".1uF"/>
 <part name="C26" library="aq-rcl" deviceset="C-US" device="050-025X085" value=".1uF"/>
@@ -35954,7 +35954,7 @@ Distributor: &lt;a href ="https://www.buerklin.com/default.asp?event=ShowArtikel
 <part name="L4" library="aq-rcl" deviceset="L-US" device="TFI0305" package3d_urn="urn:adsk.eagle:package:23529/1"/>
 <part name="C19" library="aq-rcl" deviceset="C-US" device="050-024X044" package3d_urn="urn:adsk.eagle:package:23643/1" value="82pF"/>
 <part name="C18" library="aq-rcl" deviceset="C-US" device="050-024X044" package3d_urn="urn:adsk.eagle:package:23643/1" value="82pF"/>
-<part name="C16" library="aq-rcl" deviceset="C-US" device="050-024X044" package3d_urn="urn:adsk.eagle:package:23643/1" value="82pF"/>
+<part name="C16" library="aq-rcl" deviceset="C-US" device="050-024X044" package3d_urn="urn:adsk.eagle:package:23643/1" value="82pF/∞"/>
 <part name="L5" library="aq-rcl" deviceset="L-US" device="TFI0305" package3d_urn="urn:adsk.eagle:package:23529/1"/>
 <part name="L7" library="aq-rcl" deviceset="L-US" device="TFI0305" package3d_urn="urn:adsk.eagle:package:23529/1"/>
 <part name="L8" library="aq-rcl" deviceset="L-US" device="TFI0305" package3d_urn="urn:adsk.eagle:package:23529/1"/>
@@ -35973,12 +35973,12 @@ Distributor: &lt;a href ="https://www.buerklin.com/default.asp?event=ShowArtikel
 <part name="Q6" library="aq-transistor" deviceset="*-PNP-" device="TO92-E1" package3d_urn="urn:adsk.eagle:package:29916/2"/>
 <part name="C24" library="aq-rcl" deviceset="C-US" device="050-025X090" value=".1uF"/>
 <part name="Q8" library="aq-transistor" deviceset="*-NPN-" device="TO92-E1" package3d_urn="urn:adsk.eagle:package:29916/2"/>
-<part name="C34" library="aq-rcl" deviceset="C-US" device="025-024X044" package3d_urn="urn:adsk.eagle:package:23630/1" value="2pF"/>
-<part name="C35" library="aq-rcl" deviceset="C-US" device="050-025X090" value=".1uF"/>
+<part name="C34" library="aq-rcl" deviceset="C-US" device="025-024X044" package3d_urn="urn:adsk.eagle:package:23630/1" value="2pF/∞"/>
+<part name="C35" library="aq-rcl" deviceset="C-US" device="050-025X090" value=".1uF/∞"/>
 <part name="C32" library="aq-rcl" deviceset="C-US" device="025-024X044" package3d_urn="urn:adsk.eagle:package:23630/1" value="100pF"/>
 <part name="C14" library="aq-rcl" deviceset="C-US" device="050-024X044" package3d_urn="urn:adsk.eagle:package:23643/1" value=".022uF"/>
-<part name="C39" library="aq-rcl" deviceset="C-US" device="050-024X044" package3d_urn="urn:adsk.eagle:package:23643/1" value="56pF"/>
-<part name="C33" library="aq-rcl" deviceset="C-US" device="050-024X044" package3d_urn="urn:adsk.eagle:package:23643/1" value="680pF"/>
+<part name="C39" library="aq-rcl" deviceset="C-US" device="050-024X044" package3d_urn="urn:adsk.eagle:package:23643/1" value="56pF/∞"/>
+<part name="C33" library="aq-rcl" deviceset="C-US" device="050-024X044" package3d_urn="urn:adsk.eagle:package:23643/1" value="680pF/∞"/>
 <part name="C31" library="aq-rcl" deviceset="C-US" device="050-024X044" package3d_urn="urn:adsk.eagle:package:23643/1" value=".1uF"/>
 <part name="C29" library="aq-rcl" deviceset="C-US" device="050-024X044" package3d_urn="urn:adsk.eagle:package:23643/1" value="150pF"/>
 <part name="XTAL1" library="special" library_urn="urn:adsk.eagle:library:367" deviceset="XTAL" device="" package3d_urn="urn:adsk.eagle:package:26649/1" value="7.15909 MhZ"/>
@@ -36053,13 +36053,13 @@ Distributor: &lt;a href ="https://www.buerklin.com/default.asp?event=ShowArtikel
 <part name="P+11" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
 <part name="GND13" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="SUPPLY13" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="VPP" device=""/>
-<part name="C23" library="aq-rcl" deviceset="C-US" device="050-024X044" package3d_urn="urn:adsk.eagle:package:23643/1" value="10pF"/>
-<part name="R50" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="56k"/>
-<part name="R51" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="56k"/>
-<part name="XTAL2" library="special" library_urn="urn:adsk.eagle:library:367" deviceset="XTAL" device="" package3d_urn="urn:adsk.eagle:package:26649/1" value="7.15909 Mhz"/>
-<part name="R52" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="56k"/>
+<part name="C23" library="aq-rcl" deviceset="C-US" device="050-024X044" package3d_urn="urn:adsk.eagle:package:23643/1" value="∞/10pF"/>
+<part name="R50" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="∞/56k"/>
+<part name="R51" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="∞/56k"/>
+<part name="XTAL2" library="special" library_urn="urn:adsk.eagle:library:367" deviceset="XTAL" device="" package3d_urn="urn:adsk.eagle:package:26649/1" value="∞/7.15909 Mhz"/>
+<part name="R52" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="∞/56k"/>
 <part name="U13" library="74xx-us" library_urn="urn:adsk.eagle:library:88" deviceset="74*04" device="N" package3d_urn="urn:adsk.eagle:package:16407/2" technology="LS"/>
-<part name="C43" library="aq-rcl" deviceset="C-US" device="050-025X090" value=".1uF"/>
+<part name="C43" library="aq-rcl" deviceset="C-US" device="050-025X090" value="∞/0.1uF"/>
 <part name="GND19" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="P+8" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
 </parts>
@@ -36414,6 +36414,8 @@ Connect to U16-11</text>
 <wire x1="562.864" y1="170.434" x2="596.138" y2="170.434" width="0.1524" layer="97" style="shortdash"/>
 <text x="593.09" y="292.354" size="1.016" layer="96">PAL 8.867238 Mhz</text>
 <text x="593.09" y="294.894" size="1.016" layer="96">NTSC</text>
+<text x="462.534" y="176.784" size="5.08" layer="94" distance="35" align="center">When two values are
+shown, NTSC/PAL.</text>
 </plain>
 <instances>
 <instance part="U1" gate="1" x="403.86" y="269.24" smashed="yes">
@@ -36545,7 +36547,7 @@ Connect to U16-11</text>
 </instance>
 <instance part="R25" gate="G$1" x="622.3" y="200.66" smashed="yes" rot="R180">
 <attribute name="NAME" x="626.11" y="199.1614" size="1.778" layer="95" rot="R180"/>
-<attribute name="VALUE" x="626.11" y="203.962" size="1.778" layer="96" rot="R180"/>
+<attribute name="VALUE" x="628.142" y="203.962" size="1.778" layer="96" rot="R180"/>
 </instance>
 <instance part="R32" gate="G$1" x="563.88" y="248.92" smashed="yes" rot="R180">
 <attribute name="NAME" x="567.69" y="247.4214" size="1.778" layer="95" rot="R180"/>
@@ -36812,8 +36814,8 @@ Connect to U16-11</text>
 <attribute name="VALUE" x="321.31" y="187.198" size="1.778" layer="96"/>
 </instance>
 <instance part="C37" gate="G$1" x="538.48" y="190.5" smashed="yes" rot="R90">
-<attribute name="NAME" x="537.845" y="191.516" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="542.671" y="191.516" size="1.778" layer="96" rot="R90"/>
+<attribute name="NAME" x="535.432" y="196.215" size="1.778" layer="95"/>
+<attribute name="VALUE" x="534.416" y="193.675" size="1.778" layer="96"/>
 </instance>
 <instance part="C1" gate="G$1" x="431.8" y="218.44" smashed="yes">
 <attribute name="NAME" x="432.816" y="219.075" size="1.778" layer="95"/>
@@ -36937,7 +36939,7 @@ Connect to U16-11</text>
 </instance>
 <instance part="C16" gate="G$1" x="568.96" y="226.06" smashed="yes">
 <attribute name="NAME" x="568.325" y="227.076" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="567.817" y="217.424" size="1.778" layer="96" rot="R90"/>
+<attribute name="VALUE" x="568.071" y="215.392" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="L5" gate="G$1" x="68.58" y="63.5" smashed="yes" rot="R90">
 <attribute name="NAME" x="73.66" y="62.23" size="1.778" layer="95" rot="R180"/>
@@ -37010,12 +37012,12 @@ Connect to U16-11</text>
 <attribute name="VALUE" x="558.8" y="187.96" size="1.778" layer="96" rot="MR0"/>
 </instance>
 <instance part="C34" gate="G$1" x="561.34" y="182.88" smashed="yes" rot="R270">
-<attribute name="NAME" x="561.975" y="181.864" size="1.778" layer="95" rot="R270"/>
-<attribute name="VALUE" x="557.149" y="181.864" size="1.778" layer="96" rot="R270"/>
+<attribute name="NAME" x="553.974" y="179.959" size="1.778" layer="95"/>
+<attribute name="VALUE" x="562.61" y="179.959" size="1.778" layer="96"/>
 </instance>
 <instance part="C35" gate="G$1" x="523.24" y="134.62" smashed="yes" rot="R270">
 <attribute name="NAME" x="515.874" y="136.271" size="1.778" layer="95"/>
-<attribute name="VALUE" x="515.366" y="131.699" size="1.778" layer="96"/>
+<attribute name="VALUE" x="514.858" y="130.175" size="1.778" layer="96"/>
 </instance>
 <instance part="C32" gate="G$1" x="589.28" y="266.7" smashed="yes" rot="MR90">
 <attribute name="NAME" x="587.502" y="269.875" size="1.778" layer="95" rot="MR0"/>
@@ -37291,7 +37293,7 @@ Connect to U16-11</text>
 </instance>
 <instance part="C43" gate="G$1" x="604.52" y="78.74" smashed="yes" rot="R270">
 <attribute name="NAME" x="597.154" y="80.645" size="1.778" layer="95"/>
-<attribute name="VALUE" x="596.392" y="76.073" size="1.778" layer="96"/>
+<attribute name="VALUE" x="595.122" y="74.295" size="1.778" layer="96"/>
 </instance>
 <instance part="GND19" gate="1" x="594.36" y="78.74" smashed="yes" rot="R270">
 <attribute name="VALUE" x="591.82" y="81.28" size="1.778" layer="96" rot="R270"/>
