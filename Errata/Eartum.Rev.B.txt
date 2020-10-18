@@ -12,4 +12,5 @@ C38 = 100pf not 0.1uf as described
 C1 = 10uf 
 Tracks from PSU -> switch ->7805 very thin
 Pin 21 U5 needs to go to +5v
-Jumper (open - PAL/close - NTSC) between U11 Pin 12 and U6 Pin 2
+Jumper (open - PAL/close - NTSC) between U11 Pin 12 and U6 Pin 2 (PCB is drilled to break the track on PAL version)
+
