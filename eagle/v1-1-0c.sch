@@ -38191,8 +38191,13 @@ Header</text>
 </segment>
 <segment>
 <pinref part="U5" gate="G$1" pin="24"/>
-<wire x1="195.58" y1="302.26" x2="198.12" y2="302.26" width="0.1524" layer="91"/>
+<wire x1="195.58" y1="302.26" x2="196.85" y2="302.26" width="0.1524" layer="91"/>
 <label x="198.12" y="302.26" size="1.778" layer="95"/>
+<pinref part="U5" gate="G$1" pin="21"/>
+<wire x1="195.58" y1="294.64" x2="196.85" y2="294.64" width="0.1524" layer="91"/>
+<wire x1="196.85" y1="294.64" x2="196.85" y2="302.26" width="0.1524" layer="91"/>
+<wire x1="196.85" y1="302.26" x2="198.12" y2="302.26" width="0.1524" layer="91"/>
+<junction x="196.85" y="302.26"/>
 </segment>
 <segment>
 <wire x1="182.88" y1="119.38" x2="185.42" y2="119.38" width="0.1524" layer="91"/>
