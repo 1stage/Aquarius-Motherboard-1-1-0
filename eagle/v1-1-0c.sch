@@ -35996,8 +35996,8 @@ Distributor: &lt;a href ="https://www.buerklin.com/default.asp?event=ShowArtikel
 <part name="R10" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="820"/>
 <part name="R8" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="820"/>
 <part name="R9" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="820"/>
-<part name="R14" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="2.2k"/>
-<part name="R15" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="1.2k"/>
+<part name="R14" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="2.2k/680"/>
+<part name="R15" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="1.2k/2.2k"/>
 <part name="R55" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="47k/∞"/>
 <part name="R5" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="10k"/>
 <part name="R37" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="560"/>
@@ -36080,7 +36080,7 @@ Distributor: &lt;a href ="https://www.buerklin.com/default.asp?event=ShowArtikel
 <part name="C2" library="aq-rcl" deviceset="C-US" device="050-024X044" package3d_urn="urn:adsk.eagle:package:23643/1" value="10pF"/>
 <part name="C25" library="aq-rcl" deviceset="C-US" device="050-025X090" value=".1uF"/>
 <part name="C37" library="aq-rcl" deviceset="C-US" device="025-030X050" package3d_urn="urn:adsk.eagle:package:23631/1" value=".001uF/∞"/>
-<part name="C1" library="aq-rcl" deviceset="CPOL-US" device="E2.5-6" package3d_urn="urn:adsk.eagle:package:23349/1" value="1uF @ 50v"/>
+<part name="C1" library="aq-rcl" deviceset="CPOL-US" device="E2.5-6" package3d_urn="urn:adsk.eagle:package:23349/1" value="1uF@50/10uF@16"/>
 <part name="C22" library="aq-rcl" deviceset="C-US" device="050-025X085" value=".1uF"/>
 <part name="C26" library="aq-rcl" deviceset="C-US" device="050-025X085" value=".1uF"/>
 <part name="C20" library="aq-rcl" deviceset="C-US" device="050-025X090" value=".1uF"/>
@@ -36707,7 +36707,7 @@ for 2Φ</text>
 </instance>
 <instance part="R45" gate="G$1" x="421.64" y="205.74" smashed="yes" rot="R90">
 <attribute name="NAME" x="420.1414" y="201.93" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="424.942" y="201.93" size="1.778" layer="96" rot="R90"/>
+<attribute name="VALUE" x="424.434" y="199.39" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="R24" gate="G$1" x="289.56" y="73.66" smashed="yes" rot="R270">
 <attribute name="NAME" x="291.0586" y="77.47" size="1.778" layer="95" rot="R270"/>
@@ -36937,7 +36937,7 @@ for 2Φ</text>
 <attribute name="NAME" x="447.675" y="213.36" size="1.778" layer="95" rot="MR270"/>
 </instance>
 <instance part="D15" gate="G$1" x="421.64" y="218.44" smashed="yes" rot="MR270">
-<attribute name="NAME" x="425.069" y="221.234" size="1.778" layer="95" rot="MR270"/>
+<attribute name="NAME" x="419.735" y="221.996" size="1.778" layer="95" rot="MR270"/>
 </instance>
 <instance part="D12" gate="G$1" x="342.9" y="58.42" smashed="yes" rot="MR90">
 <attribute name="NAME" x="346.075" y="55.88" size="1.778" layer="95" rot="MR90"/>
@@ -36983,7 +36983,7 @@ for 2Φ</text>
 </instance>
 <instance part="C1" gate="G$1" x="431.8" y="218.44" smashed="yes">
 <attribute name="NAME" x="432.816" y="219.075" size="1.778" layer="95"/>
-<attribute name="VALUE" x="429.133" y="215.646" size="1.778" layer="96" rot="R270"/>
+<attribute name="VALUE" x="426.593" y="220.98" size="1.778" layer="96" rot="R270"/>
 </instance>
 <instance part="C22" gate="G$1" x="53.34" y="309.88" smashed="yes" rot="MR90">
 <attribute name="NAME" x="54.356" y="313.055" size="1.778" layer="95" rot="MR0"/>
