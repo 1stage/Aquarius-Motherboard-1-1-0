@@ -1,7 +1,5 @@
 # Errata
 Updated 19 OCT 2020, by Sean Harrington<br/>
-Updated 19 OCT 2020, by Mack Wharton<br/>
-Updated 18 OCT 2020, by Sean Harrington<br/>
 
 ## New
 * None
