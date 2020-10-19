@@ -5,12 +5,13 @@ Updated 18 OCT 2020, by Sean Harrington<br/>
 
 ## New
 * Pin 1 label on U13 against wrong pin (Pin 14)
+
 ## Feedback Needed
-* C1 = 10uf - Both my PAL and my NTSC board show C1 (bottom center of FRONT) as 1uF @ 50v
 * R15 = 2.2K (not 1.2k) - Both my PAL and my NTSC board show R15 (right of Q5) as 1.2k (BROWN RED RED GOLD)
 * R14 = 680R (not 2.2K) - Both my PAL and my NTSC board show R14 (between U10 and Q5) as 2.2k (RED RED RED GOLD)
 
 ## Resolved
+* C1 = 10uf - Compromised. C1 will show 1uF @ 16v for NTSC and 10uF @ 50v for PAL.
 * R25 = 2.7k (not 4.7k) - Compromised. R25 will show 4.7k for NTSC and 2.7k for PAL.
 * Tracks from PSU -> switch ->7805 very thin - Resolved by making sure all power nets were 32 mil from input to GND, to pure VCC, VPP, and VEE. Resolved 18 OCT 2020, SPH in SCHEMATIC and BOARD 1-1-1c files.
 * Jumper (open - PAL/close - NTSC) between U11 Pin 12 and U6 Pin 2 (PCB is drilled to break the track on PAL version) - Added two jumper posts next to C25 (between U11 and U15). NTSC must bridge this to pass 2Φ signal to U11 pin 12. Resolved 18 OCT 2020, SPH in SCHEMATIC and BOARD 1-1-1c files.
