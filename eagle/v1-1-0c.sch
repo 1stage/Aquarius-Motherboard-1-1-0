@@ -36079,7 +36079,6 @@ Distributor: &lt;a href ="https://www.buerklin.com/default.asp?event=ShowArtikel
 <part name="C21" library="aq-rcl" deviceset="C-US" device="050-025X090" value=".1uF"/>
 <part name="C2" library="aq-rcl" deviceset="C-US" device="050-024X044" package3d_urn="urn:adsk.eagle:package:23643/1" value="10pF"/>
 <part name="C25" library="aq-rcl" deviceset="C-US" device="050-025X090" value=".1uF"/>
-<part name="R49" library="aq-rcl" deviceset="R-US_" device="0207/7" package3d_urn="urn:adsk.eagle:package:23493/2" value="0/220"/>
 <part name="C37" library="aq-rcl" deviceset="C-US" device="025-030X050" package3d_urn="urn:adsk.eagle:package:23631/1" value=".001uF/∞"/>
 <part name="C1" library="aq-rcl" deviceset="CPOL-US" device="E2.5-6" package3d_urn="urn:adsk.eagle:package:23349/1" value="1uF @ 50v"/>
 <part name="C22" library="aq-rcl" deviceset="C-US" device="050-025X085" value=".1uF"/>
@@ -36208,13 +36207,12 @@ Distributor: &lt;a href ="https://www.buerklin.com/default.asp?event=ShowArtikel
 <part name="C38" library="aq-rcl" deviceset="C-US" device="050-025X085" value="100pF"/>
 <part name="GND37" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="P+11" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
-<part name="GND13" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="SUPPLY13" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="VPP" device=""/>
 <part name="C23" library="aq-rcl" deviceset="C-US" device="050-024X044" package3d_urn="urn:adsk.eagle:package:23643/1" value="∞/10pF"/>
-<part name="R50" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="∞/56k"/>
-<part name="R51" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="∞/56k"/>
+<part name="R50" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="∞/1.5k"/>
+<part name="R51" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="∞/1.5k"/>
 <part name="XTAL2" library="special" library_urn="urn:adsk.eagle:library:367" deviceset="XTAL" device="" package3d_urn="urn:adsk.eagle:package:26649/1" value="∞/7.15909 Mhz"/>
-<part name="R52" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="∞/56k"/>
+<part name="R52" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="∞/100"/>
 <part name="U13" library="74xx-us" library_urn="urn:adsk.eagle:library:88" deviceset="74*04" device="N" package3d_urn="urn:adsk.eagle:package:16407/2" technology="LS"/>
 <part name="C43" library="aq-rcl" deviceset="C-US" device="050-025X090" value="∞/0.1uF"/>
 <part name="GND19" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
@@ -36225,6 +36223,11 @@ Distributor: &lt;a href ="https://www.buerklin.com/default.asp?event=ShowArtikel
 <part name="SUPPLY7" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="VPP" device=""/>
 <part name="SUPPLY12" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="VEE" device=""/>
 <part name="J2" library="aquarius2" deviceset="PINHD-1X17" device="" package3d_urn="urn:adsk.eagle:package:22490/2"/>
+<part name="R49" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="0/220"/>
+<part name="P+21" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
+<part name="GND13" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
+<part name="JP5" library="aquarius2" deviceset="PINHD-1X1" device="" package3d_urn="urn:adsk.eagle:package:22485/2"/>
+<part name="JP6" library="aquarius2" deviceset="PINHD-1X1" device="" package3d_urn="urn:adsk.eagle:package:22485/2"/>
 </parts>
 <sheets>
 <sheet>
@@ -36475,7 +36478,7 @@ U11</text>
 <wire x1="347.98" y1="15.24" x2="261.62" y2="15.24" width="0.1524" layer="97"/>
 <wire x1="261.62" y1="15.24" x2="261.62" y2="5.08" width="0.1524" layer="97"/>
 <wire x1="261.62" y1="5.08" x2="347.98" y2="5.08" width="0.1524" layer="97"/>
-<text x="304.8" y="7.62" size="5.08" layer="97" align="bottom-center">05 SEP 2020</text>
+<text x="304.8" y="7.62" size="5.08" layer="97" align="bottom-center">18 OCT 2020</text>
 <wire x1="347.98" y1="15.24" x2="347.98" y2="25.4" width="0.1524" layer="97"/>
 <wire x1="347.98" y1="25.4" x2="261.62" y2="25.4" width="0.1524" layer="97"/>
 <wire x1="261.62" y1="25.4" x2="261.62" y2="15.24" width="0.1524" layer="97"/>
@@ -36538,8 +36541,8 @@ L5 - L8</text>
 <wire x1="76.708" y1="67.31" x2="76.708" y2="59.436" width="0.1524" layer="97" style="shortdash"/>
 <wire x1="76.708" y1="59.436" x2="60.198" y2="59.436" width="0.1524" layer="97" style="shortdash"/>
 <wire x1="59.436" y1="59.436" x2="59.436" y2="67.818" width="0.1524" layer="97" style="shortdash"/>
-<text x="338.836" y="188.214" size="1.778" layer="97" distance="25" align="center">(NTSC passthrough)</text>
-<text x="343.916" y="194.056" size="1.016" layer="97" distance="25" rot="R180" align="center">NTSC to JP4
+<text x="343.154" y="187.96" size="1.27" layer="97" distance="25" align="center">(NTSC to GND)</text>
+<text x="344.424" y="195.072" size="1.016" layer="97" distance="25" rot="R180" align="center">NTSC to JP4
 TEA1002 PALSW</text>
 <text x="268.732" y="258.064" size="1.016" layer="97" distance="25" rot="R180" align="center">PAL to JP4
 TEA1002 PALSW</text>
@@ -36581,6 +36584,10 @@ Connect to U16-11</text>
 shown, NTSC/PAL.</text>
 <text x="30.48" y="86.36" size="2.54" layer="97" align="center">AUX Power
 Header</text>
+<wire x1="350.52" y1="190.5" x2="350.52" y2="185.42" width="0.1524" layer="97" style="shortdash"/>
+<text x="330.454" y="192.024" size="1.27" layer="97" distance="25" align="center">(PAL through R49)</text>
+<text x="401.32" y="165.1" size="1.016" layer="97" distance="25" rot="R180" align="center">NTSC Close
+for 2Φ</text>
 </plain>
 <instances>
 <instance part="U1" gate="1" x="403.86" y="269.24" smashed="yes">
@@ -36969,10 +36976,6 @@ Header</text>
 <instance part="C25" gate="G$1" x="386.08" y="175.26" smashed="yes" rot="MR90">
 <attribute name="NAME" x="383.286" y="180.721" size="1.778" layer="95" rot="MR180"/>
 <attribute name="VALUE" x="378.968" y="174.625" size="1.778" layer="96" rot="MR180"/>
-</instance>
-<instance part="R49" gate="G$1" x="325.12" y="190.5" smashed="yes">
-<attribute name="NAME" x="321.31" y="191.9986" size="1.778" layer="95"/>
-<attribute name="VALUE" x="321.31" y="187.198" size="1.778" layer="96"/>
 </instance>
 <instance part="C37" gate="G$1" x="538.48" y="190.5" smashed="yes" rot="R90">
 <attribute name="NAME" x="535.432" y="196.215" size="1.778" layer="95"/>
@@ -37417,9 +37420,6 @@ Header</text>
 <instance part="P+11" gate="VCC" x="614.68" y="309.88" smashed="yes">
 <attribute name="VALUE" x="612.14" y="307.34" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="GND13" gate="1" x="307.34" y="190.5" smashed="yes" rot="R270">
-<attribute name="VALUE" x="304.8" y="193.04" size="1.778" layer="96" rot="R270"/>
-</instance>
 <instance part="SUPPLY13" gate="G$1" x="497.84" y="134.62" smashed="yes" rot="R270">
 <attribute name="VALUE" x="501.015" y="136.525" size="1.778" layer="96" rot="R270"/>
 </instance>
@@ -37481,6 +37481,22 @@ Header</text>
 <instance part="J2" gate="G$1" x="78.74" y="149.86" smashed="yes" rot="MR270">
 <attribute name="NAME" x="57.785" y="156.21" size="1.778" layer="95" rot="MR270"/>
 <attribute name="VALUE" x="106.68" y="156.21" size="1.778" layer="96" rot="MR270"/>
+</instance>
+<instance part="R49" gate="G$1" x="317.5" y="190.5" smashed="yes">
+<attribute name="NAME" x="313.69" y="191.9986" size="1.778" layer="95"/>
+<attribute name="VALUE" x="313.69" y="187.198" size="1.778" layer="96"/>
+</instance>
+<instance part="P+21" gate="VCC" x="307.34" y="190.5" smashed="yes" rot="R90">
+<attribute name="VALUE" x="306.578" y="190.5" size="1.778" layer="96" rot="R180"/>
+</instance>
+<instance part="GND13" gate="1" x="350.52" y="182.88" smashed="yes" rot="MR0">
+<attribute name="VALUE" x="353.06" y="180.34" size="1.778" layer="96" rot="MR0"/>
+</instance>
+<instance part="JP5" gate="G$1" x="398.78" y="154.94" smashed="yes" rot="R270">
+<attribute name="VALUE" x="393.7" y="161.29" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="JP6" gate="G$1" x="403.86" y="154.94" smashed="yes" rot="R270">
+<attribute name="VALUE" x="398.78" y="161.29" size="1.778" layer="96" rot="R270"/>
 </instance>
 </instances>
 <busses>
@@ -37902,11 +37918,6 @@ Header</text>
 <pinref part="GND20" gate="1" pin="GND"/>
 </segment>
 <segment>
-<wire x1="320.04" y1="190.5" x2="309.88" y2="190.5" width="0.1524" layer="91"/>
-<pinref part="R49" gate="G$1" pin="1"/>
-<pinref part="GND13" gate="1" pin="GND"/>
-</segment>
-<segment>
 <pinref part="C26" gate="G$1" pin="2"/>
 <wire x1="127" y1="309.88" x2="124.46" y2="309.88" width="0.1524" layer="91"/>
 <pinref part="GND10" gate="1" pin="GND"/>
@@ -38315,6 +38326,11 @@ Header</text>
 <wire x1="35.56" y1="71.12" x2="25.4" y2="71.12" width="0.1524" layer="91"/>
 <pinref part="P+15" gate="VCC" pin="VCC"/>
 <wire x1="25.4" y1="71.12" x2="25.4" y2="73.66" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="R49" gate="G$1" pin="1"/>
+<wire x1="312.42" y1="190.5" x2="309.88" y2="190.5" width="0.1524" layer="91"/>
+<pinref part="P+21" gate="VCC" pin="VCC"/>
 </segment>
 </net>
 <net name="N$767" class="0">
@@ -40650,11 +40666,6 @@ Header</text>
 </net>
 <net name="2Φ" class="0">
 <segment>
-<pinref part="U11" gate="A" pin="O"/>
-<wire x1="393.7" y1="162.56" x2="401.32" y2="162.56" width="0.1524" layer="91"/>
-<label x="401.32" y="162.56" size="1.27" layer="95" xref="yes"/>
-</segment>
-<segment>
 <pinref part="U6" gate="A" pin="CLK"/>
 <wire x1="200.66" y1="203.2" x2="203.2" y2="203.2" width="0.1524" layer="91"/>
 <label x="203.2" y="203.2" size="1.778" layer="95" rot="MR0" align="bottom-right"/>
@@ -40672,6 +40683,12 @@ Header</text>
 <pinref part="R52" gate="G$1" pin="1"/>
 <wire x1="662.94" y1="55.88" x2="668.02" y2="55.88" width="0.1524" layer="91"/>
 <label x="668.02" y="55.88" size="1.016" layer="95" xref="yes"/>
+</segment>
+<segment>
+<pinref part="JP6" gate="G$1" pin="1"/>
+<wire x1="403.86" y1="157.48" x2="403.86" y2="162.56" width="0.1524" layer="91"/>
+<wire x1="403.86" y1="162.56" x2="406.4" y2="162.56" width="0.1524" layer="91"/>
+<label x="406.4" y="162.56" size="1.016" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="XA14" class="0">
@@ -41574,11 +41591,11 @@ Header</text>
 <net name="N$12" class="0">
 <segment>
 <pinref part="U7" gate="G$1" pin="!525!/625"/>
-<pinref part="R49" gate="G$1" pin="2"/>
 <wire x1="350.52" y1="220.98" x2="350.52" y2="190.5" width="0.1524" layer="91"/>
-<wire x1="330.2" y1="190.5" x2="342.9" y2="190.5" width="0.1524" layer="91"/>
+<wire x1="322.58" y1="190.5" x2="342.9" y2="190.5" width="0.1524" layer="91"/>
 <wire x1="342.9" y1="190.5" x2="350.52" y2="190.5" width="0.1524" layer="91"/>
 <wire x1="340.36" y1="220.98" x2="350.52" y2="220.98" width="0.1524" layer="91"/>
+<pinref part="R49" gate="G$1" pin="2"/>
 </segment>
 </net>
 <net name="N$122" class="0">
@@ -41954,6 +41971,14 @@ Header</text>
 <pinref part="U13" gate="C" pin="O"/>
 <wire x1="650.24" y1="55.88" x2="652.78" y2="55.88" width="0.1524" layer="91"/>
 <pinref part="R52" gate="G$1" pin="2"/>
+</segment>
+</net>
+<net name="2Φ-NTSC" class="0">
+<segment>
+<pinref part="U11" gate="A" pin="O"/>
+<pinref part="JP5" gate="G$1" pin="1"/>
+<wire x1="393.7" y1="162.56" x2="398.78" y2="162.56" width="0.1524" layer="91"/>
+<wire x1="398.78" y1="162.56" x2="398.78" y2="157.48" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>
