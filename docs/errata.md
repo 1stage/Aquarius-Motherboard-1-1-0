@@ -5,10 +5,11 @@ Updated 19 OCT 2020, by Sean Harrington<br/>
 * None
 
 ## Feedback Needed
-* R15 = 2.2K (not 1.2k) - Both my PAL and my NTSC board show R15 (right of Q5) as 1.2k (BROWN RED RED GOLD)
-* R14 = 680R (not 2.2K) - Both my PAL and my NTSC board show R14 (between U10 and Q5) as 2.2k (RED RED RED GOLD)
+* None
 
 ## Resolved
+* R14 = 680R (not 2.2K) - Compromised. R14 will show 2.2k for NTSC and 680 for PAL. 19 OCT, SPH in SCHEMATIC and BOARD 1-1-1c files.
+* R15 = 2.2K (not 1.2k) - Compromised. R15 will show 1.2k for NTSC and 2.2k for PAL. 19 OCT, SPH in SCHEMATIC and BOARD 1-1-1c files.
 * Pin 1 label on U13 against wrong pin (Pin 14) - Resolved 19 OCT, SPH in SCHEMATIC and BOARD 1-1-1c files.
 * C1 = 10uf - Compromised. C1 will show 1uF @ 16v for NTSC and 10uF @ 50v for PAL. 19 OCT, SPH in SCHEMATIC and BOARD 1-1-1c files.
 * R25 = 2.7k (not 4.7k) - Compromised. R25 will show 4.7k for NTSC and 2.7k for PAL. 19 OCT, SPH in SCHEMATIC and BOARD 1-1-1c files.
