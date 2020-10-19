@@ -1,7 +1,7 @@
 # Errata
-Updated 19 OCT 2020, by Sean Harrington
-Updated 19 OCT 2020, by Mack Wharton
-Updated 18 OCT 2020, by Sean Harrington
+Updated 19 OCT 2020, by Sean Harrington<br/>
+Updated 19 OCT 2020, by Mack Wharton<br/>
+Updated 18 OCT 2020, by Sean Harrington<br/>
 
 ## New
 * Pin 1 label on U13 against wrong pin (Pin 14)
