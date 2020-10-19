@@ -1,8 +1,9 @@
 # Errata
+Updated 19 OCT 2020, by Mack Wharton
 Updated 18 OCT 2020, by Sean Harrington
 
 ## New
-* None
+* Pin 1 label on U13 against wrong pin (Pin 14)
 ## Feedback Needed
 * C1 = 10uf - Both my PAL and my NTSC board show C1 (bottom center of FRONT) as 1uF @ 50v
 * R25 = 2.7k (not 4.7k) - Both my PAL and my NTSC board show R15 (upper right of U7 PLA1) as 4.7k (YELLOW PURPLE RED GOLD)
