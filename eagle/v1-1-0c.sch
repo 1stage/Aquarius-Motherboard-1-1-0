@@ -36214,7 +36214,7 @@ Distributor: &lt;a href ="https://www.buerklin.com/default.asp?event=ShowArtikel
 <part name="XTAL2" library="special" library_urn="urn:adsk.eagle:library:367" deviceset="XTAL" device="" package3d_urn="urn:adsk.eagle:package:26649/1" value="∞/7.15909 Mhz"/>
 <part name="R52" library="aq-rcl" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="∞/100"/>
 <part name="U13" library="74xx-us" library_urn="urn:adsk.eagle:library:88" deviceset="74*04" device="N" package3d_urn="urn:adsk.eagle:package:16407/2" technology="LS"/>
-<part name="C43" library="aq-rcl" deviceset="C-US" device="050-025X090" value="∞/0.1uF"/>
+<part name="C43" library="aq-rcl" deviceset="C-US" device="050-025X090" value="∞/100nF"/>
 <part name="GND19" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="P+8" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
 <part name="JP4" library="aquarius2" deviceset="PINHD-1X4" device="" package3d_urn="urn:adsk.eagle:package:22407/2"/>
