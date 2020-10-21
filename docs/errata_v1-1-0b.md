@@ -5,7 +5,7 @@ Updated 21 OCT 2020, by Sean Harrington<br/>
 Erratas to Rev B board. Corrections are made in Rev C.
 
 ## New
-* None
+* Pin 15 on U6 needs to be GND (currently open)
 
 ## Feedback Needed
 * None
