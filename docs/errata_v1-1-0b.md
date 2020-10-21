@@ -1,5 +1,8 @@
-# Errata
-Updated 19 OCT 2020, by Sean Harrington<br/>
+# Errata - Rev B Boards
+Updated 21 OCT 2020, by Sean Harrington<br/>
+
+## Abstract
+Erratas to Rev B board. Corrections are made in Rev C.
 
 ## New
 * None
@@ -25,4 +28,4 @@ Updated 19 OCT 2020, by Sean Harrington<br/>
 * AUX power pin header needed - Resolved 10 SEP 2020, SPH in SCHEMATIC and BOARD 1-1-1c files.
 
 ## Delayed / Out of Scope
-* None
+* ROM & CHROM 24 to 28 pin change - Deferred. It's impractical to add on-board support for both 24 pin (stock) and 28 pin (modern replacement) headers. 21 OCT 2020, SPH.
