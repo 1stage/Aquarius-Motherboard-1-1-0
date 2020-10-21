@@ -55,8 +55,8 @@
 <layer number="45" name="Holes" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="46" name="Milling" color="3" fill="1" visible="yes" active="yes"/>
 <layer number="47" name="Measures" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="48" name="Document" color="7" fill="1" visible="no" active="yes"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="no" active="yes"/>
+<layer number="48" name="Document" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="50" name="dxf" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="yes"/>
@@ -2085,14 +2085,13 @@ NTSC Passthrough</text>
 <text x="241.808" y="35.306" size="1.778" layer="21" align="center">Z80 CPU</text>
 <text x="108.966" y="114.3" size="1.778" layer="21" align="center">RF Modulator</text>
 <text x="266.7" y="54.102" size="1.778" layer="21" align="center">Aquarius Motherboard v1.1.0
-Rev C - 18 OCT 2020
+Rev C - 21 OCT 2020
 by Sean Harrington, sph@1stage.com</text>
 <text x="44.2976" y="8.3058" size="0.8128" layer="21" rot="R180" align="center">This replaces
 stock cap on
 bottom side</text>
 <wire x1="44.45" y1="9.906" x2="45.974" y2="11.6078" width="0.0762" layer="21"/>
 <wire x1="45.974" y1="11.6078" x2="45.974" y2="11.176" width="0.0762" layer="21"/>
-<frame x1="-11.176" y1="-13.462" x2="333.248" y2="144.78" columns="5" rows="3" layer="49"/>
 <text x="184.2262" y="87.6554" size="0.8128" layer="27">PAL 8.867238 Mhz</text>
 <text x="184.277" y="88.9762" size="0.762" layer="27">NTSC</text>
 <wire x1="214.8078" y1="105.6132" x2="212.0392" y2="105.9434" width="0.1524" layer="27" style="dashdot"/>
@@ -15377,6 +15376,9 @@ design rules under a new name.</description>
 <signal name="N$27">
 <wire x1="50.546" y1="35.56" x2="50.8" y2="35.814" width="0.254" layer="1"/>
 <wire x1="50.8" y1="35.814" x2="50.8" y2="35.052" width="0.254" layer="1"/>
+<wire x1="51.1048" y1="35.2044" x2="51.1048" y2="34.4424" width="0.254" layer="16"/>
+<wire x1="51.3588" y1="34.9504" x2="51.1048" y2="35.2044" width="0.254" layer="16"/>
+<wire x1="51.3588" y1="34.9504" x2="50.8" y2="35.052" width="0" layer="19" extent="1-16"/>
 </signal>
 <signal name="N$29">
 <wire x1="86.106" y1="62.738" x2="86.36" y2="62.992" width="0.254" layer="1"/>
