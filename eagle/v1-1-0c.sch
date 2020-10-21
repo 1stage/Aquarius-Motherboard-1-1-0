@@ -36228,6 +36228,7 @@ Distributor: &lt;a href ="https://www.buerklin.com/default.asp?event=ShowArtikel
 <part name="GND13" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="JP5" library="aquarius2" deviceset="PINHD-1X1" device="" package3d_urn="urn:adsk.eagle:package:22485/2"/>
 <part name="JP6" library="aquarius2" deviceset="PINHD-1X1" device="" package3d_urn="urn:adsk.eagle:package:22485/2"/>
+<part name="GND36" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -37498,6 +37499,9 @@ for 2Φ</text>
 <instance part="JP6" gate="G$1" x="403.86" y="154.94" smashed="yes" rot="R270">
 <attribute name="VALUE" x="398.78" y="161.29" size="1.778" layer="96" rot="R270"/>
 </instance>
+<instance part="GND36" gate="1" x="208.28" y="193.04" smashed="yes">
+<attribute name="VALUE" x="205.74" y="190.5" size="1.778" layer="96"/>
+</instance>
 </instances>
 <busses>
 <bus name="ADDR-BUS:!4/Φ,A00,A01,A02,A03,A04,A05,A06,A07,A08,A09,A10,A11,A12,A13,A14,A15,DE00,DE01,DE02,DE03,DE04,DE05,DE06,DE07,DOT,!IORQ,!MREQ,!MRST,!RD,!ROM,SND,!WAIT,!WR,XA14,XA15,Φ">
@@ -38090,6 +38094,12 @@ for 2Φ</text>
 <wire x1="35.56" y1="63.5" x2="25.4" y2="63.5" width="0.1524" layer="91"/>
 <pinref part="GND34" gate="1" pin="GND"/>
 <wire x1="25.4" y1="63.5" x2="25.4" y2="60.96" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="GND36" gate="1" pin="GND"/>
+<wire x1="208.28" y1="195.58" x2="208.28" y2="200.66" width="0.1524" layer="91"/>
+<pinref part="U6" gate="A" pin="INH"/>
+<wire x1="208.28" y1="200.66" x2="200.66" y2="200.66" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$175" class="0">
