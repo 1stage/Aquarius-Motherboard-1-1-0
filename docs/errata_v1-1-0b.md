@@ -5,12 +5,13 @@ Updated 21 OCT 2020, by Sean Harrington<br/>
 Erratas to Rev B board. Corrections are made in Rev C.
 
 ## New
-* Pin 15 on U6 needs to be GND (currently open)
+* None
 
 ## Feedback Needed
 * None
 
 ## Resolved
+* Pin 15 on U6 needs to be GND - Resolved 21 OCT 2020, SPH in SCHEMATIC and BOARD 1-1-1c files.
 * R14 = 680R (not 2.2K) - Compromised. R14 will show 2.2k for NTSC and 680 for PAL. 19 OCT, SPH in SCHEMATIC and BOARD 1-1-1c files.
 * R15 = 2.2K (not 1.2k) - Compromised. R15 will show 1.2k for NTSC and 2.2k for PAL. 19 OCT, SPH in SCHEMATIC and BOARD 1-1-1c files.
 * Pin 1 label on U13 against wrong pin (Pin 14) - Resolved 19 OCT, SPH in SCHEMATIC and BOARD 1-1-1c files.
