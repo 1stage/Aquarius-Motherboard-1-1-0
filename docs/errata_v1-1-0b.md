@@ -1,5 +1,5 @@
 # Errata - Rev B Boards
-Updated 06 NOV 2020, by Sean Harrington<br/>
+Updated 09 DEC 2020, by Sean Harrington<br/>
 
 ## Abstract
 Erratas to Rev B board. Corrections are made in Rev C.
@@ -11,7 +11,9 @@ Erratas to Rev B board. Corrections are made in Rev C.
 * None
 
 ## Resolved
-* XTAL2 not starting - Per MW recommendation, added 22pF cap from left leg of XTAL2 and GND. Resolved 06 NOV 2020, SPH in SCHEMATIC and BOARD 1-1-1c files.
+* Component TR1 is not a trim resistor - Changed to L-V1, a 10mm x 10mm MITSUMI 10uH, 4.43MHz tuned induction filter, with 1.5K impedence. Resolved 09 DEC, SPH in SCHEMATIC and BOARD 1-1-1c files. 
+* C32 = 47pF (not 100pF) - Compromised. C32 will show 100pF for NTSC and 47pF for PAL. 09 DEC, SPH in SCHEMATIC and BOARD 1-1-1c files.
+* XTAL2 not starting - Per MW recommendation, added 22pF cap from left leg of XTAL2 to GND. Resolved 06 NOV 2020, SPH in SCHEMATIC and BOARD 1-1-1c files.
 * Pin 15 on U6 needs to be GND - Resolved 21 OCT 2020, SPH in SCHEMATIC and BOARD 1-1-1c files.
 * R14 = 680R (not 2.2K) - Compromised. R14 will show 2.2k for NTSC and 680 for PAL. 19 OCT, SPH in SCHEMATIC and BOARD 1-1-1c files.
 * R15 = 2.2K (not 1.2k) - Compromised. R15 will show 1.2k for NTSC and 2.2k for PAL. 19 OCT, SPH in SCHEMATIC and BOARD 1-1-1c files.
