@@ -1,5 +1,5 @@
 # Errata - Rev B Boards
-Updated 09 DEC 2020, by Sean Harrington<br/>
+Updated 15 JAN 2021, by Sean Harrington<br/>
 
 ## Abstract
 Erratas to Rev B board. Corrections are made in Rev C.
@@ -11,6 +11,7 @@ Erratas to Rev B board. Corrections are made in Rev C.
 * None
 
 ## Resolved
+* Incorrect U7 NTSC/PAL jumper references on schematic - Changed references from JP4 to JP3 on PLA1 UY pins PALSW JP1 and PALSW2 JP2. 
 * Component TR1 is not a trim resistor - Changed to L-V1, a 10mm x 10mm MITSUMI 10uH, 4.43MHz tuned induction filter, with 1.5K impedence. Resolved 09 DEC, SPH in SCHEMATIC and BOARD 1-1-1c files. 
 * C32 = 47pF (not 100pF) - Compromised. C32 will show 100pF for NTSC and 47pF for PAL. 09 DEC, SPH in SCHEMATIC and BOARD 1-1-1c files.
 * XTAL2 not starting - Per MW recommendation, added 22pF cap from left leg of XTAL2 to GND. Resolved 06 NOV 2020, SPH in SCHEMATIC and BOARD 1-1-1c files.

@@ -2085,7 +2085,7 @@ NTSC Passthrough</text>
 <text x="241.808" y="35.306" size="1.778" layer="21" align="center">Z80 CPU</text>
 <text x="108.966" y="114.3" size="1.778" layer="21" align="center">RF Modulator</text>
 <text x="266.7" y="54.102" size="1.778" layer="21" align="center">Aquarius Motherboard v1.1.0
-Rev C - 09 DEC 2020
+Rev C - 15 JAN 2021
 by Sean Harrington, sph@1stage.com</text>
 <text x="44.2976" y="8.3058" size="0.8128" layer="21" rot="R180" align="center">This replaces
 stock cap on

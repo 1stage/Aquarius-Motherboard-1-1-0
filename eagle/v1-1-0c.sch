@@ -34591,7 +34591,7 @@ U11</text>
 <wire x1="347.98" y1="15.24" x2="261.62" y2="15.24" width="0.1524" layer="97"/>
 <wire x1="261.62" y1="15.24" x2="261.62" y2="5.08" width="0.1524" layer="97"/>
 <wire x1="261.62" y1="5.08" x2="347.98" y2="5.08" width="0.1524" layer="97"/>
-<text x="304.8" y="7.62" size="5.08" layer="97" align="bottom-center">09 DEC 2020</text>
+<text x="304.8" y="7.62" size="5.08" layer="97" align="bottom-center">15 JAN 2021</text>
 <wire x1="347.98" y1="15.24" x2="347.98" y2="25.4" width="0.1524" layer="97"/>
 <wire x1="347.98" y1="25.4" x2="261.62" y2="25.4" width="0.1524" layer="97"/>
 <wire x1="261.62" y1="25.4" x2="261.62" y2="15.24" width="0.1524" layer="97"/>
@@ -34655,9 +34655,9 @@ L5 - L8</text>
 <wire x1="76.708" y1="59.436" x2="60.198" y2="59.436" width="0.1524" layer="97" style="shortdash"/>
 <wire x1="59.436" y1="59.436" x2="59.436" y2="67.818" width="0.1524" layer="97" style="shortdash"/>
 <text x="343.154" y="187.96" size="1.27" layer="97" distance="25" align="center">(NTSC to GND)</text>
-<text x="344.424" y="195.072" size="1.016" layer="97" distance="25" rot="R180" align="center">NTSC to JP4
+<text x="344.424" y="195.072" size="1.016" layer="97" distance="25" rot="R180" align="center">NTSC to JP3
 TEA1002 PALSW</text>
-<text x="268.732" y="258.064" size="1.016" layer="97" distance="25" rot="R180" align="center">PAL to JP4
+<text x="268.732" y="258.064" size="1.016" layer="97" distance="25" rot="R180" align="center">PAL to JP3
 TEA1002 PALSW</text>
 <wire x1="467.36" y1="109.22" x2="467.36" y2="95.504" width="0.254" layer="97"/>
 <wire x1="467.36" y1="95.504" x2="490.474" y2="95.504" width="0.254" layer="97"/>
