@@ -34223,7 +34223,7 @@ Distributor: &lt;a href ="https://www.buerklin.com/default.asp?event=ShowArtikel
 <part name="L4" library="aq-rcl" deviceset="L-US" device="TFI0305" package3d_urn="urn:adsk.eagle:package:23529/1"/>
 <part name="C19" library="aq-rcl" deviceset="C-US" device="050-024X044" package3d_urn="urn:adsk.eagle:package:23643/1" value="82pF"/>
 <part name="C18" library="aq-rcl" deviceset="C-US" device="050-024X044" package3d_urn="urn:adsk.eagle:package:23643/1" value="82pF"/>
-<part name="C16" library="aq-rcl" deviceset="C-US" device="050-024X044" package3d_urn="urn:adsk.eagle:package:23643/1" value="82pF/∞"/>
+<part name="C16" library="aq-rcl" deviceset="C-US" device="050-024X044" package3d_urn="urn:adsk.eagle:package:23643/1" value="∞/82pF"/>
 <part name="L5" library="aq-rcl" deviceset="L-US" device="TFI0305" package3d_urn="urn:adsk.eagle:package:23529/1"/>
 <part name="L7" library="aq-rcl" deviceset="L-US" device="TFI0305" package3d_urn="urn:adsk.eagle:package:23529/1"/>
 <part name="L8" library="aq-rcl" deviceset="L-US" device="TFI0305" package3d_urn="urn:adsk.eagle:package:23529/1"/>
@@ -34591,7 +34591,7 @@ U11</text>
 <wire x1="347.98" y1="15.24" x2="261.62" y2="15.24" width="0.1524" layer="97"/>
 <wire x1="261.62" y1="15.24" x2="261.62" y2="5.08" width="0.1524" layer="97"/>
 <wire x1="261.62" y1="5.08" x2="347.98" y2="5.08" width="0.1524" layer="97"/>
-<text x="304.8" y="7.62" size="5.08" layer="97" align="bottom-center">15 JAN 2021</text>
+<text x="304.8" y="7.62" size="5.08" layer="97" align="bottom-center">19 JAN 2021</text>
 <wire x1="347.98" y1="15.24" x2="347.98" y2="25.4" width="0.1524" layer="97"/>
 <wire x1="347.98" y1="25.4" x2="261.62" y2="25.4" width="0.1524" layer="97"/>
 <wire x1="261.62" y1="25.4" x2="261.62" y2="15.24" width="0.1524" layer="97"/>
