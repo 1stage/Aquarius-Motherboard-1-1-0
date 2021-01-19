@@ -22,6 +22,20 @@ Additionally, there was a need to update and correct the "MEKO" schematic from 1
 * This design was taken from the NTSC version of the Aquarius Motherboard, Radofin part number 5931-4229 A. The values for all components are derived from the NTSC version, and where practical, PAL component values are noted on the schematic. As such, the "part number" embossed on these designs uses 5931-4229 AC to differentiate.
 * The schematic does it's best to identify differences between the NTSC and PAL versions, usually with dashed lines surrounding the differences.
 
+## FAQs
+* Will you be making these boards available for sale?
+  * Probably not. The Gerbers are available for anyone who wants to.
+* Can I manufacture and sell the boards?
+  * Sure, but see the section below on why this is more for SERIOUS hackers than casual users.
+* Can I build my own, brand new Aquarius computer with this PCB?
+  * Realistically, no. There are a handful of custom components (bespoke, we like to say) that ONLY exist in the Aquarius computer... the PLA1 and PLA2, some line filters, and a variable inductor... each of which is impractical to source new/NOS. You will HAVE to cannibalize an old Aquarius to get your new Aquarius to work, so given that, you should PROBABLY just use that old Aquarius instead. They're REMARKABLY robust, and the added time and cost of soldering and testing each component on your new board could just as easily be spent learning about your old computer.
+* Okay, so then what's the point of this PCB?
+  * For futher development to happen to expand the platform, it was necessary to do the work to document the original Aquarius motherboard. From there, people who are interested in adding new components will have a safer, better-documented source from which to start that development. Examples are an RGB or HDMI video interface, incorporated 32Kb of RAM on the motherboard, USB/SD support, etc.
+* I don't use Eagle (too expensive), so will you be making this available in KiCAD or some other open-source/free PCB design tool?
+  * No, but with the documentation that exists now, feel free to do so yourself. If everyone agrees that your new files work okay, we'll be happy to add them to this project.
+* What's next?
+  * See the HW Roadmap Below for our vision.
+
 ## Aquarius Hardware Development Roadmap
 (A more up-to-date version of this list is at https://aquarius.1stage.com/hw-roadmap)
 
