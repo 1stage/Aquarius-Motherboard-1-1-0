@@ -37,7 +37,7 @@ Additionally, there was a need to update and correct the "MEKO" schematic from 1
   * See the HW Roadmap Below for our vision.
 
 ## Aquarius Hardware Development Roadmap
-(A more up-to-date version of this list is at https://aquarius.1stage.com/hw-roadmap)
+(A more up-to-date version of this list is at https://aquarius.1stage.com/aquarius/hw-roadmap)
 
 ### Aquarius v1.0.0 : Baseline
 * Aquarius v1.1.0 (Rev C): Aquarius 1 stock motherboard, like-for-like replacement, SANCTIONED FREE version. 
