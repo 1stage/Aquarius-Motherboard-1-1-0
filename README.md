@@ -27,6 +27,8 @@ Additionally, there was a need to update and correct the "MEKO" schematic from 1
   * Probably not. The Gerbers are available for anyone who wants to.
 * Can I manufacture and sell the boards?
   * Sure, but see the section below on why this is more for SERIOUS hackers than casual users.
+* Can you build me a new Aquarius with this PCB?
+  * No. I have way too many projects at this time. Also, cost of the components ($$) and my time testing and assembling ($$$) would make this MANY times more expensive than buying a used Aquarius off of eBay.
 * Can I build my own, brand new Aquarius computer with this PCB?
   * Realistically, no. There are a handful of custom components (bespoke, we like to say) that ONLY exist in the Aquarius computer... the PLA1 and PLA2, some line filters, and a variable inductor... each of which is impractical to source new/NOS. You will HAVE to cannibalize an old Aquarius to get your new Aquarius to work, so given that, you should PROBABLY just use that old Aquarius instead. They're REMARKABLY robust, and the added time and cost of soldering and testing each component on your new board could just as easily be spent learning about your old computer.
 * Okay, so then what's the point of this PCB?
@@ -34,7 +36,7 @@ Additionally, there was a need to update and correct the "MEKO" schematic from 1
 * I don't use Eagle (too expensive), so will you be making this available in KiCAD or some other open-source/free PCB design tool?
   * No, but with the documentation that exists now, feel free to do so yourself. If everyone agrees that your new files work okay, we'll be happy to add them to this project.
 * What's next?
-  * See the HW Roadmap Below for our vision.
+  * See the HW Roadmap (below) for our vision.
 
 ## Aquarius Hardware Development Roadmap
 (A more up-to-date version of this list is at https://aquarius.1stage.com/aquarius/hw-roadmap)
