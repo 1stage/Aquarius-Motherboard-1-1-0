@@ -18,7 +18,7 @@ Additionally, there was a need to update and correct the "MEKO" schematic from 1
   * Both the PAL-only and NTSC-only components are marked, but only the components for the version being built should be used.
   * As much as possible, original trace paths were recreated (particularly CPU to expansion port), but the traces have been reduced to a 20 mil width on most signals, with all GND and power paths increased to 32 mil width.
   * GND pins now have thermal pads to make soldering and desoldering easier.
-* The libraries within the Eagle folder are a mess. I apologize. The file "Aq 1-1-0b MB Libraries.png" in the docs folder shows a snapshot of what was in use at the point of publication of this project. It's a combination of the standard Eagle libraries, some copied/modified versions of those, and some of my own items. I'll eventually try to consolidate them into a single library file. Again, apologies.
+* The libraries within the Eagle folder are a mess. I apologize. The board uses a combination of the standard Eagle libraries, some copied/modified versions of those, and some of my own items. I'll eventually try to consolidate them into a single library file. Again, apologies.
 * This design was taken from the NTSC version of the Aquarius Motherboard, Radofin part number 5931-4229 A. The values for all components are derived from the NTSC version, and where practical, PAL component values are noted on the schematic. As such, the "part number" embossed on these designs uses 5931-4229 AC to differentiate.
 * The schematic does it's best to identify differences between the NTSC and PAL versions, usually with dashed lines surrounding the differences.
 
