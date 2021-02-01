@@ -24,7 +24,7 @@ Additionally, there was a need to update and correct the "MEKO" schematic from 1
 
 ## FAQs
 * Will you be making these boards available for sale?
-  * Probably not. The Gerbers are available for anyone who wants to.
+  * https://www.pcbway.com/project/shareproject/Aquarius_Computer_Motherboard_v1_1_0_Rev_C.html
 * Can I manufacture and sell the boards?
   * Sure, but see the section below on why this is more for SERIOUS hackers than casual users.
 * Can you build me a new Aquarius with this PCB?
