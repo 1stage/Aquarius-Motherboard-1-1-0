@@ -23,9 +23,9 @@ Additionally, there was a need to update and correct the "MEKO" schematic from 1
 * The schematic does it's best to identify differences between the NTSC and PAL versions, usually with dashed lines surrounding the differences.
 
 ## FAQs
-* Will you be making these boards available for sale?
+* Will these boards be available for sale?
   * https://www.pcbway.com/project/shareproject/Aquarius_Computer_Motherboard_v1_1_0_Rev_C.html
-* Can I manufacture and sell the boards?
+* Can I manufacture and sell the boards myself?
   * Sure, but see the section below on why this is more for SERIOUS hackers than casual users.
 * Can you build me a new Aquarius with this PCB?
   * No. I have way too many projects at this time. Also, cost of the components ($$) and my time testing and assembling ($$$) would make this MANY times more expensive than buying a used Aquarius off of eBay.
