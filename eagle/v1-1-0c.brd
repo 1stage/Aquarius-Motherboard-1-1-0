@@ -8327,7 +8327,7 @@ design rules under a new name.</description>
 <wire x1="305.9684" y1="21.5392" x2="306.7558" y2="21.5392" width="0.8128" layer="1"/>
 <via x="11.4554" y="52.0446" extent="1-16" drill="0.65"/>
 <via x="13.9954" y="41.8846" extent="1-16" drill="0.65"/>
-<polygon width="0.025" layer="16">
+<polygon width="0.1524" layer="16">
 <vertex x="164.746403125" y="105.14896875"/>
 <vertex x="161.57643125" y="105.14896875"/>
 <vertex x="161.57643125" y="106.76725"/>
