@@ -7554,7 +7554,7 @@ design rules under a new name.</description>
 <wire x1="185.6486" y1="92.456" x2="186.0296" y2="92.837" width="0.508" layer="16"/>
 <wire x1="186.0296" y1="92.837" x2="191.897" y2="92.837" width="0.508" layer="16"/>
 </signal>
-<signal name="PIN-8.8VDC">
+<signal name="PIN+8.8VDC">
 <wire x1="42.3418" y1="123.2154" x2="40.767" y2="124.7902" width="0.8128" layer="16"/>
 <wire x1="40.767" y1="124.7902" x2="27.6606" y2="124.7902" width="0.8128" layer="16"/>
 <wire x1="26.3144" y1="124.7902" x2="27.6606" y2="124.7902" width="0.8128" layer="16"/>
@@ -7568,7 +7568,7 @@ design rules under a new name.</description>
 <wire x1="21.0058" y1="128.4986" x2="22.606" y2="128.4986" width="0.8128" layer="16"/>
 <wire x1="22.606" y1="128.4986" x2="26.3144" y2="124.7902" width="0.8128" layer="16"/>
 </signal>
-<signal name="PIN-19VDC">
+<signal name="PIN+16VDC">
 <wire x1="52.5272" y1="131.445" x2="45.6438" y2="131.445" width="0.8128" layer="16"/>
 <wire x1="42.316403125" y1="131.445" x2="45.6438" y2="131.445" width="0.8128" layer="16"/>
 <contactref element="L8" pad="1"/>
@@ -8970,7 +8970,7 @@ design rules under a new name.</description>
 <wire x1="36.2204" y1="95.4278" x2="36.4236" y2="95.631" width="0.8128" layer="1"/>
 <wire x1="36.4236" y1="95.631" x2="36.4236" y2="119.9134" width="0.8128" layer="1"/>
 </signal>
-<signal name="PIN-16VDC">
+<signal name="PIN-19VDC">
 <contactref element="C42" pad="1"/>
 <contactref element="L5" pad="1"/>
 <wire x1="4.3942" y1="128.6002" x2="8.4074" y2="128.6002" width="0.8128" layer="16"/>

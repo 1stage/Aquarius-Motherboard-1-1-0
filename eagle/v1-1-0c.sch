@@ -34591,7 +34591,7 @@ U11</text>
 <wire x1="347.98" y1="15.24" x2="261.62" y2="15.24" width="0.1524" layer="97"/>
 <wire x1="261.62" y1="15.24" x2="261.62" y2="5.08" width="0.1524" layer="97"/>
 <wire x1="261.62" y1="5.08" x2="347.98" y2="5.08" width="0.1524" layer="97"/>
-<text x="304.8" y="7.62" size="5.08" layer="97" align="bottom-center">17 MAR 2021</text>
+<text x="304.8" y="7.62" size="5.08" layer="97" align="bottom-center">20 APR 2021</text>
 <wire x1="347.98" y1="15.24" x2="347.98" y2="25.4" width="0.1524" layer="97"/>
 <wire x1="347.98" y1="25.4" x2="261.62" y2="25.4" width="0.1524" layer="97"/>
 <wire x1="261.62" y1="25.4" x2="261.62" y2="15.24" width="0.1524" layer="97"/>
@@ -37173,7 +37173,7 @@ Chroma Band Limiter</text>
 <wire x1="220.98" y1="149.86" x2="213.36" y2="149.86" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="PIN-16VDC" class="0">
+<net name="PIN-19VDC" class="0">
 <segment>
 <pinref part="C42" gate="G$1" pin="1"/>
 <wire x1="63.5" y1="50.8" x2="55.88" y2="50.8" width="0.1524" layer="91"/>
@@ -37190,7 +37190,7 @@ Chroma Band Limiter</text>
 <junction x="55.88" y="63.5"/>
 </segment>
 </net>
-<net name="PIN-8.8VDC" class="0">
+<net name="PIN+8.8VDC" class="0">
 <segment>
 <pinref part="C40" gate="G$1" pin="1"/>
 <pinref part="L6" gate="G$1" pin="1"/>
@@ -37217,7 +37217,7 @@ Chroma Band Limiter</text>
 <label x="30.48" y="111.76" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
-<net name="PIN-19VDC" class="0">
+<net name="PIN+16VDC" class="0">
 <segment>
 <pinref part="L8" gate="G$1" pin="1"/>
 <wire x1="60.96" y1="91.44" x2="55.88" y2="91.44" width="0.1524" layer="91"/>
